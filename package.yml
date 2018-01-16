@@ -1,6 +1,6 @@
 name       : perl-pathtools
 version    : 3.62
-release    : 1
+release    : 2
 source     :
     - https://cpan.metacpan.org/authors/id/R/RJ/RJBS/PathTools-3.62.tar.gz : 36350e12f58871437ba03391f80a506e447e3c6630cc37d0625bc25ff1c7b4d2
 license    : Artistic-1.0-Perl

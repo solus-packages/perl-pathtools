@@ -2,8 +2,8 @@
     <Source>
         <Name>perl-pathtools</Name>
         <Packager>
-            <Name>Simon Friend</Name>
-            <Email>simbiotiqu@gmail.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Packager>
         <License>Artistic-1.0-Perl</License>
         <PartOf>programming.perl</PartOf>
@@ -21,29 +21,39 @@ Please see their respective documentation for details.
 </Description>
         <PartOf>programming.perl</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/Cwd.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/AmigaOS.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/Cygwin.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/Epoc.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/Functions.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/Mac.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/OS2.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/Unix.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/VMS.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/File/Spec/Win32.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/auto/Cwd/.packlist</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/auto/Cwd/Cwd.so</Path>
-            <Path fileType="man">/usr/share/man</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/Cwd.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/AmigaOS.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/Cygwin.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/Epoc.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/Functions.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/Mac.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/OS2.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/Unix.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/VMS.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/File/Spec/Win32.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/auto/Cwd/.packlist</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/auto/Cwd/Cwd.so</Path>
+            <Path fileType="man">/usr/share/man/man3/Cwd.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::AmigaOS.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::Cygwin.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::Epoc.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::Functions.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::Mac.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::OS2.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::Unix.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::VMS.3</Path>
+            <Path fileType="man">/usr/share/man/man3/File::Spec::Win32.3</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2018-02-20</Date>
+        <Update release="4">
+            <Date>2018-11-21</Date>
             <Version>3.74</Version>
             <Comment>Packaging update</Comment>
-            <Name>Simon Friend</Name>
-            <Email>simbiotiqu@gmail.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Update>
     </History>
 </PISI>

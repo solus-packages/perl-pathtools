@@ -1,6 +1,6 @@
 name       : perl-pathtools
 version    : '3.74'
-release    : 3
+release    : 4
 source     :
     - https://cpan.metacpan.org/authors/id/X/XS/XSAWYERX/PathTools-3.74.tar.gz : 25724cc54c59a3bfabadec95e72db292c98676bf3632497384e8dc6277936e11
 license    : Artistic-1.0-Perl

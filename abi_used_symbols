@@ -25,13 +25,14 @@ UNKNOWN:Perl_sv_setsv_flags
 UNKNOWN:Perl_xs_boot_epilog
 UNKNOWN:Perl_xs_handshake
 libc.so.6:__errno_location
-libc.so.6:__lxstat64
 libc.so.6:__memcpy_chk
 libc.so.6:__memmove_chk
 libc.so.6:__stack_chk_fail
 libc.so.6:getcwd
+libc.so.6:lstat64
 libc.so.6:memchr
 libc.so.6:memcpy
 libc.so.6:readlink
 libc.so.6:strchr
+libc.so.6:strlen
 libc.so.6:strrchr
